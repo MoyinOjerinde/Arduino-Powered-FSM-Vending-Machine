@@ -1,6 +1,10 @@
 # Arduino-Powered-FSM-Vending-Machine
 A FSM (FInite-State-Machine) is an abstract machine that presents a finite number of states and is able to transition between these states depending on the input and condition the machine is currently in. Utilizing this concept, I was able to create a Vending Machine Model using an Arduno microcontroller, led lights, and buttons, that mimics the states that a Vending Machine might be in depending on different inputs.
 
+![schematicview](https://github.com/user-attachments/assets/723badf9-a469-466d-a9cd-6c5d28eafb58)
+
+![FSM Vending Machine Prototyping](https://github.com/user-attachments/assets/91ce22be-b2a7-4e30-8a19-844096ade839)
+
 __The different states present in this model Vending Machine are the following:__
 
 ### Idle 
